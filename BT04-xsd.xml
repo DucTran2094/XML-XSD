@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<poem poemid="1" authorid="1" lang="VN"
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='BT04-xsd.xsd'>
+    <title>Poem Title</title>
+    <author>Travis Duong</author>
+    <intro>This is the intro</intro>
+    <body>This is the body</body>
+    <statement>This is the statement</statement>
+
+</poem>
+

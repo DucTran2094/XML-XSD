@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <xs:element name="teacher">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="fullname" type="xs:string"/>
+          <xs:element name="dob" type="xs:date"/>
+          <xs:element name="class" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+</xs:schema>
+
+<teacher
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    <!--xsi:noNamespaceSchemaLocation='BT01-xsd.xsd'>-->
+    <fullname>Sir Laurent</fullname>
+    <dob>1993-07-07</dob>
+    <class>C2104L</class>
+
+</teacher>

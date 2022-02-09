@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<html lang="VN"
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='BT05-xsd.xsd'>
+    <header>
+        <title>This is the Title</title>
+    </header>
+    
+    <body>
+        <div>This is a div tag</div>
+        <p>This is a p tag</p>
+        <span>This is a span tag</span>
+    </body>
+
+</html>
+
